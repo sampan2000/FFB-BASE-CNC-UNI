@@ -20,8 +20,9 @@
 除了6个结构件使用CNC以外，杆头底座目前CNC成本太高，仍然采用3D打印。
 <br>BOM
 <table>
-<tr><th>名称</th><th>数量</th></tr>
-<tr><td>M4x12杯头螺钉</td><td>35</td></tr>
-<tr><td>M3x10杯头螺钉</td><td>2</td></tr>
-<tr><td>6806轴承</td><td>1</td></tr>
+<tr><th rowspan='2'>名称</th><th>灵足03</th><th>GIM8108</th></tr>
+<tr><th>数量</th><th>数量</th></tr>
+<tr><td>M4x12杯头螺钉</td><td>35</td><td>15</td></tr>
+<tr><td>M3x10杯头螺钉</td><td>2</td><td>22</td></tr>
+<tr><td>6806轴承</td><td colspan='2' align='center'>1</td></tr>
 </table>
